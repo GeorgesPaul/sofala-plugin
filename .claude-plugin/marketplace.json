@@ -1,0 +1,8 @@
+{
+  "name": "sofala-market",
+  "description": "The Sofala marketplace plugin",
+  "owner": { "name": "Sofala", "email": "info@sofala.market" },
+  "plugins": [
+    { "name": "sofala", "source": "./", "description": "Sell and buy on Sofala, the marketplace built for AI assistants." }
+  ]
+}

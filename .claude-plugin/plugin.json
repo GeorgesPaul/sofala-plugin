@@ -1,0 +1,24 @@
+{
+  "name": "sofala",
+  "displayName": "Sofala marketplace",
+  "version": "1.0.0",
+  "description": "Sell and buy on Sofala, the marketplace built for AI assistants: list an item from a photo, search listings, message sellers, make offers, and publish games, eBooks, music and video.",
+  "author": {
+    "name": "Sofala",
+    "email": "info@sofala.market",
+    "url": "https://sofala.market"
+  },
+  "homepage": "https://sofala.market",
+  "repository": "https://github.com/GeorgesPaul/sofala-plugin",
+  "license": "MIT",
+  "keywords": [
+    "marketplace",
+    "classifieds",
+    "selling",
+    "shopping",
+    "digital-goods",
+    "games",
+    "ebooks"
+  ],
+  "privacyPolicyUrl": "https://sofala.market/privacy"
+}
