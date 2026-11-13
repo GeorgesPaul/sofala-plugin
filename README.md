@@ -11,7 +11,7 @@ With this plugin Claude can:
 
 ## What is in the plugin
 
-- **A connection to the Sofala MCP server** at `https://sofala.market/mcp`. This is the only service the plugin talks to. The first time Claude uses it you sign in to your Sofala account in the browser (OAuth); a new account is free and takes an email code.
+- **A connection to the Sofala MCP server** at `https://sofala.market`. This is the only service the plugin talks to. The first time Claude uses it you sign in to your Sofala account in the browser (OAuth); a new account is free and takes an email code.
 - **Three skills** that teach Claude how to use it well:
   - `sell-item`: list an item, a property or a service, and handle questions and offers
   - `find-and-buy`: search, talk to sellers, make offers, buy digital goods

@@ -2,7 +2,7 @@
   "mcpServers": {
     "sofala": {
       "type": "http",
-      "url": "https://sofala.market/mcp"
+      "url": "https://sofala.market"
     }
   }
 }
