@@ -20,5 +20,8 @@
     "games",
     "ebooks"
   ],
-  "privacyPolicyUrl": "https://sofala.market/privacy"
+  "privacyPolicyUrl": "https://sofala.market/privacy",
+  "termsOfServiceUrl": "https://sofala.market/terms",
+  "documentationUrl": "https://github.com/GeorgesPaul/sofala-plugin#readme",
+  "supportUrl": "mailto:info@sofala.market"
 }
