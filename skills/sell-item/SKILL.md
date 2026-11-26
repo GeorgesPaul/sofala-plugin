@@ -13,7 +13,7 @@ Sofala is a general marketplace with classified-style listings. Buyer and seller
 2. Find the most specific category with `list_categories`, then read its attributes with `get_category`. Fill in the attributes you can read off the photo and ask for the required ones you cannot.
 3. Draft the listing: a short, specific title (what it is, brand, model, size), an honest description, a fair price in the person's currency, the country and the town.
 4. Show the person the title, description, price and photos, and wait for their go-ahead before you publish.
-5. Call `create_listing`. Pass the photo in `photos` if you can. If you cannot, give the person the `photo_upload_url` from the result: it is a private page where they add photos, documents and a video themselves.
+5. Call `create_listing`. Pass the photo in `photos` if you can. If you cannot, give the person the `photo_upload_url` from the result: it is a private page where they add photos, documents and a video themselves. Say in one sentence why, so it does not look like something failed, for example: "I can’t pass photos from our chat to Sofala, so please add them on this private page; it takes a minute."
 6. Give the person the link to their listing.
 
 ## Afterwards
